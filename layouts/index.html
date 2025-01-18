@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div id="homepage">
+    <img class="homepage-cover-pfp" src="https://avatars.githubusercontent.com/u/93048025?v=4">
+    <div class="about-me">
+        <h2>[about me]</h2>
+        <p>
+            I am Samiul Islam. A 19 year old college student from
+            Bangladesh.
+        </p>
+        <p>
+            I like computers, technology, programming,
+            cybersecurity and listening to music. I also find
+            crime analysis, history and conspiracy theories interesting.
+        </p>
+        <p>
+            Open world video games are something that I enjoy.
+            Finally I am just a guy who likes to tinker with
+            operating systems, programs and devices.
+        </p>
+        <p>
+            <i>And yes, minimalism is what I pursue.</i>
+        </p>
+
+        <h2>[links]</h2>
+        <ul class="social-links-list">
+            <li><a href="https://github.com/8amiul" target="_blank">GitHub</a></li>
+            <li><a href="https://www.facebook.com/8amiul8" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/8amiul" target="_blank">Instagram</a></li>
+            <li><a href="https://www.youtube.com/@8AMIUL" target="_blank">YouTube</a></li>
+            <li><a href="https://open.spotify.com/user/31ziro3uqh7oeb5kpiw4bhcd6fqu" target="_blank">Spotify</a></li>
+            <li><a href="https://www.chess.com/member/8amiulonceagain" target="_blank">chess.com</a></li>
+            <li><a href="https://tryhackme.com/p/8amiul" target="_blank">TryHackMe</a></li>
+        </ul>
+    </div>
+    
+    <div class="div-3">
+        <div class="music-album">
+            {{- partial "fav-mus-album.html" . -}}
+        </div>
+        <div class="chatbox">
+            
+            {{- partial "chatbox.html" . -}}
+        </div>
+    </div>
+</div>
+
+{{ end }}

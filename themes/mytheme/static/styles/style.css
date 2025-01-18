@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+}
+
+body {
+    background-color: #171010;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    font-family: "JetBrains Mono", sans-serif;
+    color: #EEEEEE;
+}

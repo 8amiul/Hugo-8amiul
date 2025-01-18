@@ -1,0 +1,43 @@
+languageCode = 'en-us'
+title = "8amiul's Webpage"
+theme = 'mytheme'
+baseurl = "https://8amiul.github.io"
+
+[params]
+    favAlbum.title = "Somersault"
+    favAlbum.cover = "/images/music-album.jpg"
+
+[author]
+    name = "8amiul"
+
+[outputFormats]
+[outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
+
+
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 2
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 3
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 4
+  [[menus.main]]
+    name = 'Bookmarks'
+    pageRef = '/bookmarks'
+    weight = 5
+
+

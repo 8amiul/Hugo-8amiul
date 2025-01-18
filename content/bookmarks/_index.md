@@ -1,0 +1,137 @@
+---
+title: "Bookmarks"
+---
+
+These are my bookmarks in browser!
+
+# Music Cover Collage Maker
+- https://topsters.org/
+- https://xsaardo.github.io/Album-Art-Collage-Creator/
+
+# Music Cover Download
+- https://bendodson.com/projects/itunes-artwork-finder/index.html
+ 
+# FTP Servers
+- http://cdn.roarmediazone.com/
+- http://circleftp.net/
+- http://fs.ebox.live/
+- http://crazyctg.com/
+- http://showtimebd.com/
+- https://elaach.com/
+- http://naturalbd.com/
+- [http://10.16.100.244/](http://10.16.100.244/)
+- [http://15.1.4.7/](http://15.1.4.7/)
+- [http://103.16.74.218/](http://103.16.74.218/)
+- [http://10.90.90.200/](http://10.90.90.200)
+
+# Video
+- https://vid.puffyan.us/feed/popular
+
+# Audio
+- http://radio.garden/
+- https://spotify-downloader.com/
+
+# Gaming
+- https://www.retrogames.cc/
+
+# Wallpaper
+- https://www.wallpaperflare.com/
+- https://hdqwalls.com/
+- https://wallhaven.cc/
+ 
+# Programming
+- https://devhints.io/vim
+- https://devhints.io/bash
+- https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_bookmarks
+- https://www.makeuseof.com/linux-bash-terminal-shortcuts/
+- https://www.color-hex.com/
+- https://file.pizza/
+- https://fazlerabbi37.github.io/blogs/bash_cheat_sheet.html
+- https://pymotw.com/3/
+- https://cs.hamilton.edu/misc/EmacsCheatSheet_iupui.pdf
+- https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
+- https://willpittman.net:8080/index.php?title=Python_curses#Curses
+- https://buildmedia.readthedocs.org/media/pdf/pygame/latest/pygame.pdf
+- https://www.lua.org/pil/contents.html
+- https://www.lua.org/manual/5.4/
+- https://github.com/ossu/computer-science
+- https://cs50.me/cs50x
+- https://moi.vonos.net/linux/beginners-installing-from-source/
+- https://www.linuxfromscratch.org/lfs/view/stable/
+- https://buildyourownlisp.com//
+- https://invisible-island.net/ncurses/man/ncurses.3x.html
+- https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+- https://www.sbarjatiya.com/notes_wiki/index.php/Using_ncurses_library_with_C
+- https://invisible-island.net/ncurses/ncurses-intro.html#introduction
+- https://jbwyatt.com/ncurses.html
+- https://www.ibm.com/docs/en/aix/7.2?topic=library-manipulating-window-data-curses
+- https://pubs.opengroup.org/onlinepubs/7908799/xcurses/curses.h.html
+- https://roadmap.sh/
+- https://beej.us/guide/bgc/
+- https://linux.die.net/
+- https://developer.mozilla.org/en-US/
+- https://www.learncpp.com/
+- https://en.cppreference.com/w/
+- https://cses.fi/book/book.pdf
+- https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf
+- https://wiki.archlinux.org/
+- https://devhints.io/
+- https://www.gnu.org/software/libc/manual/pdf/libc.pdf
+- https://beej.us/guide/bgclr/html/split/
+- https://wiki.libsdl.org/SDL2_mixer/CategoryAPI
+- https://terminaltrove.com/
+- https://xkcd.com/
+- https://acm.timus.ru/problemset.aspx?space=1&tag=beginners
+- https://kenkoooo.com/atcoder/#/table/
+- https://colorhunt.co/
+ 
+# Blog
+- https://write.corbpie.com/
+ 
+# OS Tweaks and Tools
+- https://retrosystemsrevival.blogspot.com
+- https://downloads.corsicanu.ro/samsung/
+- https://archive.archlinux.org/
+ 
+# Hacks
+- https://cs.rin.ru/
+- https://rentry.org/Piracy-BG
+- https://eldritchdata.neocities.org/PDF/U/TheAnarchistCookbook.pdf
+- https://cracked.io/Forum-Tutorials-Guides-etc?sortby=started&order=desc&datecut=9999&prefix=0
+- https://onehack.us/
+- https://fmhy.net/
+- https://hacksnation.com/
+- https://tutflix.org/
+ 
+# Pentesting
+- https://hackersploit.org/
+- https://www.vulnhub.com/
+- https://portswigger.net/web-security
+- https://github.com/sundowndev/hacker-roadmap
+- https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
+ 
+# PDFs
+- https://singlelogin.re/
+ 
+# Movies
+- https://mlsbd.shop/
+- https://latesthdmovies.date/
+ 
+# ROMs
+- https://myrient.erista.me/
+- https://r-roms.github.io/
+ 
+# Guide
+- https://sangams.com.np/using-android-pc-as-a-second-monitor-in-linux/
+- https://tryhackme.com/forum/thread/62bc5fb1fcafa700618f25f0
+- https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+- https://github.com/santiagofdezg/linux-extend-screen
+- https://ivonblog.com/en-us/posts/termux-chroot-ubuntu/#references
+- https://xdaforums.com/t/how-to-downgrade-android-version-in-samsung-devices-if-device-is-in-higher-binery.4561665/
+- https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/chroot/debian_chroot.md
+ 
+# Academic
+- https://www.bdniyog.com/
+- https://eduacademybd.com/
+- https://aapathshala.com/
+- https://www.educationblog24.com/
